@@ -1,5 +1,6 @@
 name: "Voice Call"
 description: "Hệ thống đàm thoại một chạm (Push-to-Talk) thông minh cho loa Google Cast"
+url: "https://github.com/nhok3296/voice_call_hass"
 version: "1.0.2"
 slug: "voice_call"
 init: false
