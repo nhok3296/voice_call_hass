@@ -1,0 +1,11 @@
+# Tự động chuẩn hóa line endings
+* text=auto
+
+# Giữ nguyên Unix LF cho bash script và dockerfile
+voice_call/run.sh text eol=lf
+voice_call/Dockerfile text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.ico binary

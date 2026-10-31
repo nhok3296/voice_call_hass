@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.raw
+*.upload
+*.tmp
+temp_icon.png
